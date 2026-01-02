@@ -233,8 +233,8 @@ Certification, comparison, and correctness must be determined from verification 
 
 The canonical implementation, datasets, and browser-verifiable certification logic for this study are maintained in the **Shunyaya SSUM Observatory**:
 
-**Shunyaya SSUM Observatory (Main Hub)**  
-https://ompshunyaya.github.io/ssum-observatory/
+**Shunyaya SSUM Observatory (Canonical Repository)**  
+https://github.com/OMPSHUNYAYA/ssum-observatory
 
 **Case 08 — Finite Structural Area Experiment (Squaring the Circle)**  
 https://ompshunyaya.github.io/ssum-observatory/08_finite_structural_area_experiment/
